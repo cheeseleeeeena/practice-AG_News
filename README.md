@@ -2,12 +2,6 @@
 
 Using pretrained BERT with Tensorflow
 
-## Table of Contents
-
-- 環境需求
-- [安裝](#安裝)
-- [教材列表](#教材列表)
-
 ## Environment Setup
 
 1. Operating System
@@ -23,7 +17,7 @@ Using pretrained BERT with Tensorflow
 1. Clone repository
 
 ```sh
-git clone https://github.com/IKMLab/course_material.git
+git clone https://github.com/cheeseleeeeena/text_classification_bert.git
 ```
 
 2. Install **required packages**
